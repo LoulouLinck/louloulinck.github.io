@@ -17,7 +17,7 @@ aka Loulou
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="30" height="30" /> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width="30" height="30" /> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="30" height="30" /> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg](https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="30" height="30" /> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="30" height="30" /> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" width="30" height="30" /> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="30" height="30" /> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" width="30" height="30" /> 
