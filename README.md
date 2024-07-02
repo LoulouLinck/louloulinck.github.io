@@ -32,7 +32,7 @@ aka Loulou
 <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" width="30" height="30" /> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/cucumber/cucumber-plain-wordmark.svg" width="30" height="30" /> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/puppeteer/puppeteer-original.svg" width="30" height="30" /> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="30" height="30" /> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="30" height="30" /> 
 
 
 ---
