@@ -28,7 +28,7 @@ aka Loulou
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="30" height="30" /> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" width="30" height="30" /> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="30" height="30" /> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" width="30" height="30" /> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-line-wordmark.svg" width="30" height="30" /> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" width="30" height="30" /> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/cucumber/cucumber-plain-wordmark.svg" width="30" height="30" /> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/puppeteer/puppeteer-original.svg" width="30" height="30" /> 
