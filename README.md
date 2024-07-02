@@ -31,6 +31,8 @@ aka Loulou
 <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" width="30" height="30" /> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" width="30" height="30" /> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/cucumber/cucumber-plain-wordmark.svg" width="30" height="30" /> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/cucumber/cucumber-plain-wordmark.svg" width="30" height="30" /> 
+
 
 
 ---
