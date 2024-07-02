@@ -32,6 +32,7 @@ aka Loulou
 <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" width="30" height="30" /> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" width="30" height="30" /> 
 
+
 ---
 
 ## 📬 Contact me
